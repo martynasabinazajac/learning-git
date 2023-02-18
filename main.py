@@ -13,3 +13,4 @@ print(list)
 list_3=[i**3 for i in list]
 print(list_3)
 print('zmiany na githube')
+print('ćwiczenie zmiana pierwsza') 
